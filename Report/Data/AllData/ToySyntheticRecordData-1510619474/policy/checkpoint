@@ -1,0 +1,3 @@
+model_checkpoint_path: "/tmp/rl_teacher_vids/reacher/ToySyntheticRecordData-1510619474/policy/policy"
+all_model_checkpoint_paths: "/tmp/rl_teacher_vids/reacher/ToySyntheticRecordData-1510619474/cost/cost"
+all_model_checkpoint_paths: "/tmp/rl_teacher_vids/reacher/ToySyntheticRecordData-1510619474/policy/policy"

@@ -1,0 +1,9 @@
+Run Name: reacher/ToySyntheticRecordData-1511495825 
+Environment: reacher 
+Run Time: 3600 
+Experiment Name: toysyntheticrecorddata 
+Pre-train Labels: 10 
+Pre-train Iterations: 10000 
+Network Type: MLP 
+Total Labels: 700 
+Label Schedule: Annealing 

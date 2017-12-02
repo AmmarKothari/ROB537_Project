@@ -1,0 +1,2 @@
+model_checkpoint_path: "/tmp/rl_teacher_vids/reacher/ToyRLRecordData-1510568884/policy/policy"
+all_model_checkpoint_paths: "/tmp/rl_teacher_vids/reacher/ToyRLRecordData-1510568884/policy/policy"

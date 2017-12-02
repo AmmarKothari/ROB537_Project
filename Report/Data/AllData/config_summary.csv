@@ -1,0 +1,126 @@
+Pretrain Labels,Total Labels,Environment,Experiment Name,Run Time,Run Name,Pretrain Iterations,Network Type,Label Schedule
+100 ,1000 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510639366 ,10000 ,,Annealing 
+75 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511691984 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511708615 ,10000 ,Tiny ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511463304 ,10000 ,MLP ,Annealing 
+10 ,800 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511244799 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511705173 ,10000 ,MLP ,Annealing 
+100 ,1000 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510642825 ,10000 ,,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511580748 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511609625 ,10000 ,Tiny ,Annealing 
+25 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511432559 ,10000 ,MLP ,Annealing 
+10 ,200 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511555753 ,10000 ,MLP ,Annealing 
+10 ,800 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511334339 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,900 ,reacher/ToySyntheticRecordData-1511538425 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511448072 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,900 ,reacher/ToySyntheticRecordData-1511284824 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511712914 ,10000 ,Deep ,Annealing 
+10 ,100 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511307800 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,1800 ,reacher/ToySyntheticRecordData-1511207926 ,10000 ,MLP ,Annealing 
+50 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511435981 ,10000 ,MLP ,Annealing 
+10 ,300 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510685306 ,10000 ,,Annealing 
+10 ,700 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511495825 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511338344 ,10000 ,MLP ,Annealing 
+100 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511600010 ,10000 ,MLP ,Annealing 
+10 ,800 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511499238 ,10000 ,MLP ,Annealing 
+100 ,1000 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510646924 ,10000 ,,Annealing 
+10 ,400 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511319430 ,10000 ,MLP ,Annealing 
+100 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511523635 ,10000 ,MLP ,Annealing 
+10 ,300 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511644979 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,900 ,reacher/ToySyntheticRecordData-1511306630 ,10000 ,MLP ,Annealing 
+10 ,100 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511551671 ,10000 ,MLP ,Annealing 
+10 ,400 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511484717 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510746837 ,10000 ,Deep ,Annealing 
+10 ,600 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511327490 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511673812 ,10000 ,MLP ,Annealing 
+10 ,300 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510730017 ,10000 ,Tiny ,Annealing 
+10 ,100 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511219982 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510790206 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510737635 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,7200 ,reacher/ToySyntheticRecordData-1511624524 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511248884 ,10000 ,MLP ,Annealing 
+10 ,500 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511234263 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510741658 ,10000 ,Tiny ,Annealing 
+10 ,600 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511492120 ,10000 ,MLP ,Annealing 
+10 ,600 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511238382 ,10000 ,MLP ,Annealing 
+10 ,600 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511570381 ,10000 ,MLP ,Annealing 
+10 ,600 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511659325 ,10000 ,MLP ,Annealing 
+10 ,1800 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510693388 ,10000 ,,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511452050 ,10000 ,Tiny ,Annealing 
+10 ,500 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511567097 ,10000 ,MLP ,Annealing 
+10 ,200 ,reacher ,toyhumanrecorddata_48 ,3600 ,reacher/ToyHumanRecordData_48-1510941496 ,10000 ,,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,7200 ,reacher/ToySyntheticRecordData-1511466358 ,10000 ,MLP ,Annealing 
+10 ,800 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511577074 ,10000 ,MLP ,Annealing 
+10 ,200 ,reacher ,toyhumanrecorddata_50 ,3600 ,reacher/ToyHumanRecordData_50-1512185506 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511209596 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,900 ,reacher/ToySyntheticRecordData-1511460313 ,10000 ,MLP ,Annealing 
+10 ,400 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511230820 ,10000 ,MLP ,Annealing 
+10 ,700 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511573600 ,10000 ,MLP ,Annealing 
+100 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510802849 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511527129 ,10000 ,MLP ,Annealing 
+250 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510810310 ,10000 ,MLP ,Annealing 
+25 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511588339 ,10000 ,MLP ,Annealing 
+50 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511515235 ,10000 ,MLP ,Annealing 
+100 ,1000 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510654424 ,10000 ,,Annealing 
+10 ,300 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511227453 ,10000 ,MLP ,Annealing 
+75 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511519591 ,10000 ,MLP ,Annealing 
+100 ,1000 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510650972 ,10000 ,,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511535047 ,10000 ,Deep ,Annealing 
+10 ,400 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511563273 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,1800 ,reacher/ToySyntheticRecordData-1511461149 ,10000 ,MLP ,Annealing 
+10 ,200 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511224091 ,10000 ,MLP ,Annealing 
+10 ,500 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511652428 ,10000 ,MLP ,Annealing 
+50 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510798761 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,1800 ,reacher/ToySyntheticRecordData-1511539369 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511531101 ,10000 ,Tiny ,Annealing 
+75 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511595597 ,10000 ,MLP ,Annealing 
+10 ,300 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510725920 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,900 ,reacher/ToySyntheticRecordData-1511286924 ,10000 ,MLP ,Annealing 
+10 ,300 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510734513 ,10000 ,Deep ,Annealing 
+100 ,1000 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510658664 ,10000 ,,Annealing 
+50 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511591994 ,10000 ,MLP ,Annealing 
+10 ,100 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511472766 ,10000 ,MLP ,Annealing 
+100 ,1000 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510662732 ,10000 ,,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511457238 ,10000 ,Deep ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511428465 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,900 ,reacher/ToySyntheticRecordData-1511206890 ,10000 ,MLP ,Annealing 
+25 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511680665 ,10000 ,MLP ,Annealing 
+75 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511439990 ,10000 ,MLP ,Annealing 
+100 ,1000 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510666220 ,10000 ,,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511541033 ,10000 ,MLP ,Annealing 
+10 ,700 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511330915 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511507184 ,10000 ,MLP ,Annealing 
+10 ,200 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511311901 ,10000 ,MLP ,Annealing 
+10 ,800 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511666724 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,900 ,reacher/ToySyntheticRecordData-1511721817 ,10000 ,MLP ,Annealing 
+50 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511688536 ,10000 ,MLP ,Annealing 
+10 ,700 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511662756 ,10000 ,MLP ,Annealing 
+10 ,500 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511488127 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511584272 ,10000 ,MLP ,Annealing 
+10 ,100 ,reacher ,toyhumanrecorddata_47 ,3600 ,reacher/ToyHumanRecordData_47-1510781193 ,10000 ,,Annealing 
+10 ,60 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510681835 ,10000 ,,Annealing 
+10 ,500 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511323471 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511613989 ,10000 ,Deep ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510689364 ,10000 ,,Annealing 
+10 ,300 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511481091 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,7200 ,reacher/ToySyntheticRecordData-1511545080 ,10000 ,MLP ,Annealing 
+10 ,700 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511241398 ,10000 ,MLP ,Annealing 
+10 ,100 ,reacher ,toyhumanrecorddata_49 ,3600 ,reacher/ToyHumanRecordData_49-1512180676 ,10000 ,MLP ,Annealing 
+300 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510814358 ,10000 ,MLP ,Annealing 
+10 ,300 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511559019 ,10000 ,MLP ,Annealing 
+10 ,300 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511315987 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511677235 ,10000 ,MLP ,Annealing 
+10 ,400 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511648973 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511621104 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,7200 ,reacher/ToySyntheticRecordData-1511212973 ,10000 ,MLP ,Annealing 
+200 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510806290 ,10000 ,MLP ,Annealing 
+25 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511511134 ,10000 ,MLP ,Annealing 
+100 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511444034 ,10000 ,MLP ,Annealing 
+100 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511696014 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,1800 ,reacher/ToySyntheticRecordData-1511619406 ,10000 ,MLP ,Annealing 
+350 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1510817766 ,10000 ,MLP ,Annealing 
+10 ,200 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511476762 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511603655 ,10000 ,MLP ,Annealing 
+10 ,200 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511637804 ,10000 ,MLP ,Annealing 
+10 ,100 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511634353 ,10000 ,MLP ,Annealing 
+10 ,900 ,reacher ,toysyntheticrecorddata ,3600 ,reacher/ToySyntheticRecordData-1511503229 ,10000 ,MLP ,Annealing 

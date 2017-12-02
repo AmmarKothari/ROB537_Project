@@ -1,0 +1,9 @@
+Run Name: reacher/ToyHumanRecordData_50-1512185506 
+Environment: reacher 
+Run Time: 3600 
+Experiment Name: toyhumanrecorddata_50 
+Pretrain Labels: 10 
+Pretrain Iterations: 10000 
+Network Type: MLP 
+Total Labels: 200 
+Label Schedule: Annealing 
